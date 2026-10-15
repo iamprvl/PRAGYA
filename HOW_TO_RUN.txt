@@ -1,0 +1,8 @@
+PRAGYA -- Divya Mati Tantra (Portable Package)
+====================================================
+
+How to use:
+1. Double-click on 'PRAGYA.exe' to launch the app.
+2. No installation or Python setup is required on any Windows PC!
+3. Your API keys are saved locally in the '.env' file in this same folder.
+4. To share: You can zip or copy this entire 'PRAGYA' folder to any USB drive or computer.

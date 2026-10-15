@@ -1,0 +1,11 @@
+# Security: Never commit local private API keys or personal chat sessions
+.env
+chat_sessions/*.json
+!chat_sessions/.gitkeep
+
+# Temp / OS files
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
